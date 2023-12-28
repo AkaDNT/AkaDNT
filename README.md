@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)]
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi, I'm Dinh Nhat Thong 🐧</h1>
 <h3 align="center">A passionate back-end developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.gif?cid=82a1493bggbagt37xeo6e9jthyesy8f3ympw9di8warshu4g&ep=v1_gifs_related&rid=200w.gif&ct=g">
