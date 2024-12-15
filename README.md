@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SMP](https://github.com/AkaDNT/SMP)
 
-- 🌱 I’m currently learning **ASP.Net**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkaDNT?tab=repositories](https://github.com/AkaDNT?tab=repositories)
 
