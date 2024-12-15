@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadnt&label=Profile%20views&color=0e75b6&style=flat" alt="akadnt" /> </p>
 
-- 🔭 I’m currently working on [traveling](https://github.com/AkaDNT/traveling)
+- 🔭 I’m currently working on [SMP](https://github.com/AkaDNT/SMP)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkaDNT?tab=repositories](https://github.com/AkaDNT?tab=repositories)
 
