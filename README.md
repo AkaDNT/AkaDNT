@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadnt&label=Profile%20views&color=0e75b6&style=flat" alt="akadnt" /> </p>
 
-- 🔭 I’m currently working on [SMP](https://github.com/AkaDNT/SMP)
+- 🔭 I’m currently working on [AS](https://github.com/AkaDNT/AS)
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
